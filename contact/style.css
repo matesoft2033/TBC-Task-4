@@ -1,0 +1,80 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: text-top;
+}
+#active {
+	display: inline-block;
+	width: 115px;
+	height: 34px;
+	font-size: 26px;
+	font-weight: 700;
+	size: 26px;
+	line-height: 31.2px;
+	color: #8D81FF;
+	text-decoration: none;
+	margin: 15px
+}
+#news {
+	display: inline-block;
+	width: 150px;
+	height: 34px;
+	font-size: 26px;
+	font-weight: 700;
+	line-height: 31.2px;
+	color: #8D81FF;
+	text-decoration: none;
+	margin: 15px;
+}
+#contact {
+	display: inline-block;
+	width: 133px;
+	height: 34px;
+	font-size: 26px;
+	font-weight: 700;
+	line-height: 31.2px;
+	color: #4E6FAE;
+	text-decoration: none;
+	margin: 15px;
+}	
+.start {
+	display: inline-block;
+	margin-top: 10px;
+	margin-left: 63px;
+	margin-right: 60px;
+}	
+
+#contact1 {
+	width: 400px;
+	display: inline-block;
+	margin-left: 162px;
+}
+#container {
+	height: 735px;
+	background-color: #E7E7E7;
+}
+#paragraph {
+	width: 474px;
+	font-weight: 700;
+	font-size: 36px;
+	color: #4E6FAE;
+	margin-left: -20px;
+	margin-top: 124px;
+	margin-bottom: 27px;
+}
+span {
+	color: #7E8898;
+}
+.texti {
+	color: #3F4145;
+	margin-left: -20px;
+	margin-bottom: 23px;
+	vertical-align: text-top;
+}
+#map {
+	margin-left: 661px;
+	margin-top: -203px;
+}

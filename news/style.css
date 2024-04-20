@@ -1,0 +1,189 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: text-top;
+}
+.start {
+	display: inline-block;
+	margin-top: 10px;
+	margin-left: 63px;
+	margin-right: 60px;
+}
+#active {
+	display: inline-block;
+	width: 115px;
+	height: 34px;
+	font-size: 26px;
+	font-weight: 700;
+	size: 26px;
+	line-height: 31.2px;
+	color: #8D81FF;
+	text-decoration: none;
+	margin: 15px
+}
+#news {
+	display: inline-block;
+	width: 150px;
+	height: 34px;
+	font-size: 26px;
+	font-weight: 700;
+	line-height: 31.2px;
+	color: #4E6FAE;
+	text-decoration: none;
+	margin: 15px;
+}
+#contact {
+	display: inline-block;
+	width: 133px;
+	height: 34px;
+	font-size: 26px;
+	font-weight: 700;
+	line-height: 31.2px;
+	color: #8D81FF;
+	text-decoration: none;
+	margin: 15px;
+}
+#img {
+	display: inline-block;
+    margin-top: 97px;
+    margin-left: 180px;
+    margin-right: 100px;
+    width: 1052px;
+    height: 462px;
+}		
+
+#line2 {
+	display: inline-block;
+	height: 33px;
+	width: 2px;
+	background-color: black;
+	color: #5012D5;
+	margin: -29px 5px 30px 345px;
+}
+
+.heading2 {
+	width: 150px;
+	height: 34px;
+	font-weight: 700;
+	font-size: 26px;
+	margin-left: 183px;
+	margin-top: 120px;
+	color: #4E6FAE;
+}
+.heading {
+	width: 484px;
+	height: 34px;
+	font-weight: 400;
+	font-size: 26px;
+	color: #4E6FAE;
+	margin-left: 379px;
+	margin-top: -65px;
+
+}
+
+#number1 {
+	display: inline-block;
+	height: 192px;
+	background-color: #E7E7E7;
+	color: black;
+	border: 20px;
+	width: 466px;
+	padding: 25px;
+	margin-left: 182px;
+	margin-top: 26px;
+}
+#number2 {
+	display: inline-block;
+	height: 192px;
+	background-color: #E7E7E7;
+	color: black;
+	border: 20px;
+	width: 485px;
+	padding: 25px;
+	margin-left: 759px;
+	margin-top: -242px;
+	margin-right: 194px;
+
+}
+#headingmeore {
+	font-weight: 400;
+	font-size: 20px;
+	color: #3F4145;
+	width: 307px;
+	height: 24px;
+	margin-bottom: 13px;
+	margin-left: 23px;
+	margin-right: 170px;
+	margin-top: 5px;
+	font-family: "Roboto";
+
+
+}
+
+#photo1 {
+	margin-top: 25px;
+	margin-left: 18px;
+	margin-bottom: 60px;
+	margin-right: 25px;
+	
+
+}
+#photo2 {
+	margin-left: 16px;
+	margin-right: 19px;
+	margin-bottom: 25px;
+	margin-top: 15px;
+
+
+}
+#p1 {
+	display: inline-block;
+	width: 335px;
+	color: #7E8898;
+	margin-top: 31px;
+	font-family: "Roboto";
+}
+#rusetiokupantia {
+	font-weight: 400;
+	font-size: 20px;
+	width: 307px;
+	height: 24px;
+	margin-bottom: 13px;
+	margin-left: 23px;
+	margin-right: 170px;
+	margin-top: 5px;
+	color: #3F4145;
+	font-family: "Roboto";
+}
+.photo {
+	margin-top: 25px;
+	margin-left: 25px;
+	margin-bottom: 38px;
+	margin-right: 25px;	
+}
+#p2 {
+	display: inline-block;
+	width: 335px;
+	color: #7E8898;
+	margin-top: 31px;
+	font-family: "Roboto";
+}
+#line {
+	display: inline-block;
+	height: 48px;
+	width: 2px;
+	background-color: black;
+	color: #5012D5;
+	margin: 151px 5px 286px 21px;
+}
+#facebook {
+	margin:151px 5px 286px 182px;
+}
+#youtube {
+	margin-top: 151px;
+	margin-left: 21px;
+	margin-bottom: 286px;
+}

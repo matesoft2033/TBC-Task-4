@@ -1,0 +1,158 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: text-top;
+}
+#active {
+	display: inline-block;
+	width: 115px;
+	height: 34px;
+	font-size: 26px;
+	font-weight: 700;
+	size: 26px;
+	line-height: 31.2px;
+	color: #4E6FAE;
+	text-decoration: none;
+	margin: 15px;
+}
+#news {
+	display: inline-block;
+	width: 150px;
+	height: 34px;
+	font-size: 26px;
+	font-weight: 700;
+	line-height: 31.2px;
+	color: #8D81FF;
+	text-decoration: none;
+	margin: 15px;
+}
+#contact {
+	display: inline-block;
+	width: 133px;
+	height: 34px;
+	font-size: 26px;
+	font-weight: 700;
+	line-height: 31.2px;
+	color: #8D81FF;
+	text-decoration: none;
+	margin: 15px;
+}		
+
+
+.date {
+	background-color: #5012D5;
+	color: #84FF81;
+	font-size: 24px;
+	padding: 10px;
+	margin-left: 52px;
+	margin-top: 156px;
+}
+.two {
+	margin-top: 155px;
+}
+.month {
+	width: 70px;
+	height: 34px;
+	font-weight: 400;
+	font-size: 24px;
+    color: #8D81FF;
+    margin-left: 52px;
+    margin-top: 26px;
+    font-family: "BPG Nino Mkhedruli", sans-serif;
+
+}
+.heading2 {
+	width: 578px;
+	height: 34px;
+	font-weight: 700;
+	font-size: 18px;
+	margin-left: 52px;
+	margin-top: 8px;
+	color: #4E6FAE;
+	font-family: "BPG Square", sans-serif;
+
+}
+.p1 {
+    display: inline-block;
+	width: 778px;
+	color: #4E6FAE;
+	margin-top: 10px; 
+    line-height: 25px;
+    font-family: "BPG QuadroSquare 2013", sans-serif;
+
+
+}
+.firstimage {
+	display: inline-block;
+	margin-top: 14px;
+	margin-left: 52px;
+	margin-right: 66px;
+}
+ol {
+	margin-left: 21px;
+	line-height: 22px;
+}
+.one {
+	margin-top: 167px;
+}
+.two {
+
+}
+.secondimage {
+	display: inline-block;
+	margin-top: 13px;
+	margin-right: 66px;
+	margin-left: 52px;
+
+
+}
+.p2 {
+	display: inline-block;
+	width: 778px;
+	margin-top: 10px;
+	color: #4E6FAE;
+	font-family: "BPG QuadroSquare 2013", sans-serif;
+	line-height: 25px;
+
+}
+.thirdimage {
+	margin-top: 14px;
+	margin-left: 52px;
+}
+.p3 {
+	display: inline-block;
+	width: 778px;
+	color: #4E6FAE;
+	margin-top: 10px;
+	margin-left: 66px;
+    font-family: "BPG QuadroSquare 2013", sans-serif;
+    line-height: 25px;
+
+
+
+}	
+#line {
+	display: inline-block;
+	height: 48px;
+	width: 2px;
+	background-color: black;
+	color: #5012D5;
+	margin: 145px 11px 286px 41px ;
+}
+#facebook {
+	margin: 143px 5px 286px 52px;
+}
+#youtube {
+	margin-top: 145px;
+	margin-left: 41px;
+	margin-bottom: 285px;
+}
+.start {
+	display: inline-block;
+	margin-top: 10px;
+	margin-left: 63px;
+	margin-right: 60px;
+}
